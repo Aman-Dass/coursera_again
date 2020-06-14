@@ -92,8 +92,10 @@ section{
 }
 p{
 	width: 90%;
+	height: 150px;
 	margin-right: auto;
 	margin-left: auto;
 	font-family: 'courier new','halvetica neue',halvetica;
 	color: black;
+	overflow: auto;
 }
