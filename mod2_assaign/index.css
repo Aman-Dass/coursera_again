@@ -56,6 +56,7 @@ header{
 	}
 @media (max-width: 767px) {
 	.col-sm-12,.col-sm-6,.col-sm-4{
+		margin-left: 2%;
 		float: left;
 		font-family: 'courier new','halvetica neue',halvetica;
 		border: 1px solid black;
@@ -85,9 +86,13 @@ h3{
 	border-left: 1px solid black;
 }
 .row{
-	width: 90%;
+	padding-left: 5%;
+	padding-right:  10%;
+	width: 100%;
 }
 section{
+	margin-bottom: 5%;
+	border: 1px solid black;
 	background-color: lightcyan;
 }
 p{
